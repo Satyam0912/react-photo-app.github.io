@@ -1,0 +1,26 @@
+.signup-section {
+    height: 100vh;
+    color: bisque;
+}
+
+.main-signup-form {
+    padding: 20px;
+    margin: 20px auto;
+    border: 2px solid blueviolet;
+    box-shadow: 0 4px 8px 0 rgb(0, 251, 255), 0 6px 20px 0 rgb(0, 251, 255);
+    border-radius: 10px;
+    text-align: left;
+}
+
+.signup-btn{
+    font-weight: bold;
+    background-color: blueviolet;
+    box-shadow: 0 4px 8px 0 rgb(0, 251, 255), 0 6px 20px 0 rgb(0, 251, 255);
+}
+
+.signup-btn:hover {
+    font-weight: bold;
+    color: tomato;
+    background-color: aqua;
+    box-shadow: 0 4px 8px 0 blueviolet, 0 6px 20px 0 blueviolet;
+}

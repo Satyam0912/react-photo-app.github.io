@@ -1,0 +1,26 @@
+.login-section {
+    height: 100vh;
+    color: bisque;
+}
+
+.main-login-form {
+    margin: 20px auto;
+    padding: 20px 100px;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 4px 8px 0 rgb(0, 251, 255), 0 6px 20px 0 rgb(0, 251, 255);
+}
+
+.login-btn {
+    font-weight: bold;
+    background-color: blueviolet;
+    box-shadow: 0 4px 8px 0 rgb(0, 251, 255), 0 6px 20px 0 rgb(0, 251, 255);
+}
+
+.login-btn:hover {
+    font-weight: bold;
+    color: tomato;
+    background-color: aqua;
+    box-shadow: 0 4px 8px 0 blueviolet, 0 6px 20px 0 blueviolet;
+}

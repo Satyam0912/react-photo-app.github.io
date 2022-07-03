@@ -1,0 +1,46 @@
+.singlePhoto {
+    margin: 40px 0;
+}
+
+.singlePhoto-card {
+    box-shadow: 0 4px 8px 0 rgb(0, 251, 255), 0 6px 20px 0 rgb(0, 251, 255);
+}
+
+.photo-img {
+    height: 220px;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.spinner-wrapper {
+    margin: 20px 0;
+    color: blue;
+}
+
+.singlePhoto-header {
+    background-color: rgb(102, 60, 228);
+    color: white;
+}
+
+.singlePhoto-body {
+    background-color: rgb(102, 60, 228);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.singlePhoto-btn {
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgb(0, 251, 255), 0 6px 20px 0 rgb(0, 251, 255);
+}
+
+.singlePhoto-btn:hover {
+    font-weight: bold;
+    color: tomato;
+    background-color: aqua;
+    box-shadow: 0 4px 8px 0 blueviolet, 0 6px 20px 0 blueviolet;
+}
